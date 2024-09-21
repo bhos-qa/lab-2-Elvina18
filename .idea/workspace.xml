@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86a7e80d-d327-42e1-8d00-7c7ec460b628" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ElvinaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ElvinaClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="86a7e80d-d327-42e1-8d00-7c7ec460b628" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/lab2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/turan/Desktop/lab-2-Elvina18",
     "node.js.detected.package.eslint": "true",
@@ -83,7 +81,7 @@
       <workItem from="1726930566428" duration="896000" />
       <workItem from="1726931578841" duration="1724000" />
       <workItem from="1726938655368" duration="77000" />
-      <workItem from="1726942455482" duration="63000" />
+      <workItem from="1726942455482" duration="701000" />
     </task>
     <servers />
   </component>
